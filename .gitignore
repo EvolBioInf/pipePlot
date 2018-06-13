@@ -1,0 +1,12 @@
+*.o
+*.val
+*.sh
+pipePlot
+*.aux
+*.log
+*.ps
+*.dvi
+*.ps
+*.tex
+*.bbl
+*.blg
